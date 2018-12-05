@@ -1,0 +1,23 @@
+SAMPLE MAIL LETTER
+==================
+To          XYZ@gmail.com
+
+Sub         Application for the position of Python developer-Ref no:12345
+
+Greeting    Dear Sir/Madam,
+Intro       My name is Rajashekar and I am writing in response to your advertisement,for the post of Python developer
+
+Details     I an Btech graduate from computer science background.I have sound knowledge on python,Java and Selenium 
+            tool.In addition, I have knowledge on oracle,html,css,javascript ect..I have participated in debates and 
+            various compations in my school and college and won many prizes,I believe I can work in a team as I have
+            done my academic project by being a part of a team.I am confident of developing quality codes 
+
+ActionPlan  I have attached my resume/cv and I would be avaliable to attend the Interview if my profile matches your
+            requirement.I would be happy to provide any additional info that you may need
+
+close       I can be contacted 987654321 and I look forward to hearing from you.
+
+signature   Thank you,
+            Warm Regards,
+            Rajashekar
+ 
