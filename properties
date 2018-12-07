@@ -1,0 +1,8 @@
+URL=http://orangehrm.uftselenium.com
+un.text.loc=.//*[@id='txtUsername']
+pwd.text.loc=.//*[@id='txtPassword']
+login.btn.loc=.//*[@id='btnLogin']
+
+ un=sreekanth
+ 
+ pwd=sreekanth@2015
